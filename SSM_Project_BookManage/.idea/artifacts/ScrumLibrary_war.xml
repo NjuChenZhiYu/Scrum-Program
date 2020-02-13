@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ScrumLibrary:war">
+    <output-path>$PROJECT_DIR$/ScrumLibrary/target</output-path>
+    <root id="archive" name="ScrumLibrary-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ScrumLibrary:war exploded" />
+    </root>
+  </artifact>
+</component>
