@@ -7,6 +7,7 @@ import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.util.Random;
 
+import javax.imageio.ImageIO;
 import javax.servlet.ServletException;
 import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServletRequest;
@@ -66,8 +67,12 @@ public class IdentityCode {
 		g.drawString(randomString, 18, 20);
 		//转化成jpg的格式
 		ServletOutputStream out = response.getOutputStream();
-		JPEGImageEncoder encoder = JPEGCodec.createJPEGEncoder(out);
-		encoder.encode(bi);
+
+		//Linux部署无法显示验证码，新版本jdk1.8不再支持JPEGCodec
+//		JPEGImageEncoder encoder = JPEGCodec.createJPEGEncoder(out);
+//		encoder.encode(bi);
+		//修改如下
+		ImageIO.write(bi,"jpg",out);
 		out.flush();
 	}
 }

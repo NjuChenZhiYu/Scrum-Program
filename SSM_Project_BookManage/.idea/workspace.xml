@@ -7,8 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f5fb22b-08ba-416e-b8ef-66e63db6e1aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ScrumLibrary/WebRoot/img/fen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ScrumLibrary/WebRoot/img/user.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/util/IdentityCode.java" afterPath="$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/util/IdentityCode.java" />
+      <change beforePath="$PROJECT_DIR$/ScrumLibrary/target/ScrumLibrary-0.0.1-SNAPSHOT/WEB-INF/classes/com/scrum/Library/util/IdentityCode.class" afterPath="$PROJECT_DIR$/ScrumLibrary/target/ScrumLibrary-0.0.1-SNAPSHOT/WEB-INF/classes/com/scrum/Library/util/IdentityCode.class" />
+      <change beforePath="$PROJECT_DIR$/ScrumLibrary/target/ScrumLibrary-0.0.1-SNAPSHOT/img/fen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ScrumLibrary/target/ScrumLibrary-0.0.1-SNAPSHOT/img/user.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ScrumLibrary/target/classes/com/scrum/Library/util/IdentityCode.class" afterPath="$PROJECT_DIR$/ScrumLibrary/target/classes/com/scrum/Library/util/IdentityCode.class" />
     </list>
     <ignored path="$PROJECT_DIR$/PredestinedLoveLibrary/target/" />
     <ignored path="$PROJECT_DIR$/ScrumLibrary/target/" />
@@ -21,103 +25,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="bookClass.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/bookJsp/bookClass.jsp">
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1416">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="104">
+              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bookClassInfo.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/bookJsp/bookClassInfo.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2394">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bookEdit.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/bookJsp/bookEdit.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1710">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readerPermission.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerPermission.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readerPage.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerPage.jsp">
+      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/config/databaseConfig/db.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="36" column="53" lean-forward="false" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="permissionPage.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/permissionPage.jsp">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-162">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1597">
+              <caret line="164" column="36" lean-forward="true" selection-start-line="164" selection-start-column="36" selection-end-line="164" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readerLoad.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerLoad.jsp">
+      <file leaf-file-name="UserRealm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/realm/UserRealm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1472">
-              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            <state relative-caret-position="160">
+              <caret line="92" column="64" lean-forward="true" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readerStatus.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerStatus.jsp">
+      <file leaf-file-name="Parameter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/parameter/Parameter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="topFrame.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/frame/topFrame.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+            <state relative-caret-position="228">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readerType.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerType.jsp">
+      <file leaf-file-name="SysurpMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/mybatis/SysurpMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2052">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserLoginMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/mybatis/UserLoginMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReaderMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/mybatis/ReaderMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HandleException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/exception/HandleException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginFormAuthenticationFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/shiroFilter/loginFormAuthenticationFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -131,6 +133,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -184,7 +191,6 @@
         <option value="$PROJECT_DIR$/PredestinedLoveLibrary/WebRoot/css/Login.css" />
         <option value="$PROJECT_DIR$/PredestinedLoveLibrary/src/com/scrum/Library/util/IdentityCode.java" />
         <option value="$PROJECT_DIR$/PredestinedLoveLibrary/WebRoot/WEB-INF/spring-servlet.xml" />
-        <option value="$PROJECT_DIR$/ScrumLibrary/pom.xml" />
         <option value="$PROJECT_DIR$/ScrumLibrary/WebRoot/css/Login.css" />
         <option value="$PROJECT_DIR$/ScrumLibrary/WebRoot/frame/leftFrame.jsp" />
         <option value="$PROJECT_DIR$/ScrumLibrary/WebRoot/frame/mainFrame.jsp" />
@@ -192,6 +198,8 @@
         <option value="$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerPage.jsp" />
         <option value="$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerStatus.jsp" />
         <option value="$PROJECT_DIR$/ScrumLibrary/WebRoot/frame/topFrame.jsp" />
+        <option value="$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/util/IdentityCode.java" />
+        <option value="$PROJECT_DIR$/ScrumLibrary/pom.xml" />
       </list>
     </option>
   </component>
@@ -268,63 +276,28 @@
             <path>
               <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
               <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
               <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
               <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="SysUser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="bookJsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM_Project_BookManage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScrumLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="readerJsp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -552,15 +525,16 @@
       <workItem from="1581521280698" duration="89000" />
       <workItem from="1581563950063" duration="13691000" />
       <workItem from="1581589221198" duration="147000" />
-      <workItem from="1581819939936" duration="7709000" />
+      <workItem from="1581819939936" duration="11729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25812000" />
+    <option name="totallyTimeSpent" value="29832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
@@ -583,7 +557,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -607,63 +581,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="511" column="13" lean-forward="false" selection-start-line="511" selection-start-column="13" selection-end-line="511" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/shiroFilter/loginFormAuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/mybatis/UserLoginMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/config/cacheConfig/ehcache.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/config/mybatisConfig/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/realm/UserRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/config/databaseConfig/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/config/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/util/DateExchangeUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -678,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/util/IdentityCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="61" column="60" lean-forward="false" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -696,14 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,20 +734,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
-          <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5928">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -930,7 +824,7 @@
     <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerLoad.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1472">
-          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -946,7 +840,7 @@
     <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/WEB-INF/readerJsp/readerStatus.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1482">
-          <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -955,8 +849,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/frame/topFrame.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        <state relative-caret-position="1710">
+          <caret line="45" column="7" lean-forward="false" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/util/IdentityCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/config/databaseConfig/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1597">
+          <caret line="164" column="36" lean-forward="true" selection-start-line="164" selection-start-column="36" selection-end-line="164" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/shiroFilter/loginFormAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/realm/UserRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="92" column="64" lean-forward="true" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/mybatis/SysurpMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/mybatis/UserLoginMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/mybatis/ReaderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/exception/HandleException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/src/com/scrum/Library/parameter/Parameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrumLibrary/WebRoot/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
