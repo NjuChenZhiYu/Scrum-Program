@@ -25,18 +25,18 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<h1><span class="glyphicon glyphicon-home"></span></h1>
 		<div class="row">
 		<div class="col-md-6">
-			<a href="<%=basePath%>/reader/toReader"><img src="<%=basePath %>/img/zheng.png" width="80%"  height="300px" class="img-thumbnail" /></a>
+			<a href="<%=basePath%>/reader/toReader"><img src="<%=basePath %>/img/inputStudent.png" width="100%"  height="300px" class="img-thumbnail" /></a>
 		</div>
 		<div class="col-md-6">
-			<a href="<%=basePath%>/book/toBook"><img src="<%=basePath %>/img/yuan.png" width="80%"  height="300px" class="img-thumbnail" /></a>
+			<a href="<%=basePath%>/book/toBook"><img src="<%=basePath %>/img/inputBook.png" width="100%"  height="300px" class="img-thumbnail" /></a>
 		</div>
 		</div>
 		<div class="row">
 		<div class="col-md-6">
-			<a href="<%=basePath %>/Userlogin/selectPermission?start=0"><img src="<%=basePath %>/img/tu.png" width="80%"  height="300px" class="img-thumbnail"/></a>
+			<a href="<%=basePath %>/Userlogin/selectPermission?start=0"><img src="<%=basePath %>/img/auth.png" width="100%"  height="300px" class="img-thumbnail"/></a>
 		</div>
 		<div class="col-md-6">
-			<a href="<%=basePath%>/borrow/selectBorrowInfo?start=0" ><img src="<%=basePath %>/img/shu.png" width="80%"  height="300px" class="img-thumbnail"/></a>
+			<a href="<%=basePath%>/borrow/selectBorrowInfo?start=0" ><img src="<%=basePath %>/img/borrowinfo.png" width="100%"  height="300px" class="img-thumbnail"/></a>
 		</div>
 		</div>
 	

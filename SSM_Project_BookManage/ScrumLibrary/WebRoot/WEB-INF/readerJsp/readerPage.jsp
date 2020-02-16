@@ -34,7 +34,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 			</div>
 			<div class="col-md-5">
-				<img src="<%=basePath %>/img/fen.png" class='img-rounded' />
+				<img src="<%=basePath %>/img/info.png" class='img-rounded' />
 
 			</div>
 		</div>

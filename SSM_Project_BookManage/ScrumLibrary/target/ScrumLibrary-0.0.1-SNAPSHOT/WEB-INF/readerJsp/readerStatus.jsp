@@ -37,7 +37,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		}
 	</script>
 	<body>
-		<div class="row">
+		<div class="row" style="margin-top: 20px">
 			<form class="form-inline" method="post" action="<%=basePath %>/reader/updateStatus">
 				<div class="form-group">
 					<span class="glyphicon glyphicon-user">用户名</span>

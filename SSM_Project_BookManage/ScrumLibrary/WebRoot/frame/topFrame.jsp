@@ -26,19 +26,19 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			margin-top: 30px;
 		}
 		body{
-			background-color:#122B40;
+			background-color:#780EBE;
 		}
 	</style>
 
 	<body>
 		<div class="pull-left">
-			<a href="<%=basePath %>/frame/mainFrame.jsp" target="mainFrame" ><img src="<%=basePath %>/img/title.png" style="margin-top: -20px;"/></a>
+			<a href="<%=basePath %>/frame/mainFrame.jsp" target="mainFrame" ><img src="<%=basePath %>/img/njulogo.png" style="margin-top: 2px; margin-left: 4px"/></a>
 		</div>
 		<div class="pull-right ">
 			<img class="img-circle" width="30px" height="30px" src="<%=basePath %>/${SysReader.rdPhoto}" style="margin-right: 10px;"/>
-			<a href="<%=basePath %>/SysUser/userPWDEdit.jsp" target="mainFrame"><span class="glyphicon glyphicon-cog"></span> Settings</a>	
+			<a href="<%=basePath %>/SysUser/userPWDEdit.jsp" target="mainFrame"><span class="glyphicon glyphicon-cog"></span> 设置</a>
 			<a href="<%=basePath %>/SysUser/userInfo.jsp" target="mainFrame"><span class="glyphicon glyphicon-user"></span>${admin } </a>
-			<a target="mainFrame" href="javascript:void(0)" onclick="if(confirm('你确定退出系统?')){top.location.href='<%=basePath %>/Userlogin/logout'; window.location.reload();}"><span class="glyphicon glyphicon-log-out"></span> Logout</a>
+			<a target="mainFrame" href="javascript:void(0)" onclick="if(confirm('你确定退出系统?')){top.location.href='<%=basePath %>/Userlogin/logout'; window.location.reload();}"><span class="glyphicon glyphicon-log-out"></span> 注销</a>
 
 		</div>
 	</body>
