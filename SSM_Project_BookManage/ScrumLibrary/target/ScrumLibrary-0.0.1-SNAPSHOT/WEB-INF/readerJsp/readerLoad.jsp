@@ -100,7 +100,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					<input type="file" class="form-control " name="filePhoto" />
 				</div>
 				<div class="form-group">
-					<input type="submit" class="form-control btn btn-danger" value="Submit" />
+					<input type="submit" class="form-control btn btn-danger" value="提交" />
 				</div>
 			</form>
 		</div>

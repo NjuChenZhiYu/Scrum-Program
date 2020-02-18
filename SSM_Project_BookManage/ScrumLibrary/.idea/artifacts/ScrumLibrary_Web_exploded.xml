@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ScrumLibrary:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ScrumLibrary_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ScrumLibrary/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ScrumLibrary" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

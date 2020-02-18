@@ -108,10 +108,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<nav aria-label="...">
 			<ul class="pager">
 				<li>
-					<a href="<%=basePath%>/reader/findReader?start=${start-10}&rdID=${rdID}">Previous</a>
+					<a href="<%=basePath%>/reader/findReader?start=${start-10}&rdID=${rdID}">上一页</a>
 				</li>
 				<li>
-					<a href="<%=basePath%>/reader/findReader?start=${start+10}&rdID=${rdID}">Next</a>
+					<a href="<%=basePath%>/reader/findReader?start=${start+10}&rdID=${rdID}">下一页</a>
 				</li>
 			</ul>
 		</nav>

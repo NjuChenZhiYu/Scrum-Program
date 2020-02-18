@@ -4,27 +4,40 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
-	background-image: url(../img/library.jpg);
+	background-image: url(../img/njubdl.jpg);
 }
 
 form {
-	margin-top: 15%;
+	margin-top: 10%;
 	margin-left: 35%;
 }
 
 .bg {
-	font-family: "楷体";
+	font-family: "宋体";
 	font-size: 13px;
-	color: #FF0AA7;
+	color: #6a005f;
 	font-size: 15px;
 }
 
+h3{
+	color: #6a005f;
+	letter-spacing: 2px;
+}
+
 .tilte {
-	font-family: "楷体";
+	font-family: "宋体";
 
 }
 
 .bg1 {
 	background: rgba(255, 255, 255, 0.5);
 	height: 350px;
+}
+
+#submit{
+	background-color:#6a005f ;
+}
+
+#reset{
+	color: #6a005f;
 }

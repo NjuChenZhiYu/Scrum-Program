@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				var password2=document.getElementById("password2");
 				if(!password1.equals(password2))
 				{
-					alert("密码错误");
+					alert("两次输入不一致！");
 					window.reload();
 				}
 			}
@@ -32,20 +32,20 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<body>
 		<form class="col-md-3" onclick="compare()" action="Userlogin/pwdEdit" method="post"> 
 			<div class="form-group">
-			<span class='glyphicon glyphicon-user'>UserName</span>
+			<span class='glyphicon glyphicon-user'>用户名</span>
 			<input type="text" class="form-control"  placeholder="用户名" name="username" value="${admin }" readonly/>
 			</div>
 			<div class="form-group">
-			<span class='glyphicon glyphicon-lock'>PassWord</span>
+			<span class='glyphicon glyphicon-lock'>密码</span>
 			<input type="password" class="form-control" placeholder="请输入密码" id="password1" name="password"/>
 			</div>
 			<div class="form-group">
-			<span class='glyphicon glyphicon-lock'>PassWord</span>
+			<span class='glyphicon glyphicon-lock'>再次确认</span>
 			<input type="password" class="form-control" placeholder="确认密码" id="password2"/>
 			</div>
 			<div class="form-group">
 		
-			<input type="submit" class="btn-danger btn" value="Submit"/>
+			<input id="submit" type="submit" class="btn-danger btn" value="提交"/>
 			</div>
 		</form>
 	</body>

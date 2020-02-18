@@ -14,7 +14,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<style type="text/css">
 			body
 			{
-				background-color:#780EBE;
+				background-color: #6a005f;
 			}
 			* {
 				margin: 0;
@@ -91,7 +91,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			.menu ul li a {
 				display: block;
 				color: #FFF;
-				background-color: #780EBE
+				background-color: #6a005f
 			}
 			
 			.menu ul li a:hover {

@@ -18,29 +18,28 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	</head>
 	<style type="text/css">
 		.row{
-			margin-left: 12px;
+			margin-left: 20px;
 			
 		}
 		span{
-			font-family: "楷体";
+			font-family: "宋体";
 			font-size: 20px;
 		}
 	</style>
 	<body>
-		<div class='row col-md-1'>
-			<span>用户图像:</span><br />
-			<img class="img-rounded" width="100px" height="100px"  src="<%=basePath %>/${SysReader.rdPhoto}"/>
-		</div>
 		<div class="row col-md-4">
+			<span>用户图像:</span><br />
+			<img class="img-rounded" width="80px" height="100px"  src="<%=basePath %>/${SysReader.rdPhoto}"/>
+			<br/>
 			<span>用户名：</span>${SysReader.rdID}
 			<br />
-			<span>姓名：</span>${SysReader.rdName}
+			<span>姓  名：</span>${SysReader.rdName}
 			<br />
-			<span>性别：</span>${SysReader.rdSex}
+			<span>性  别：</span>${SysReader.rdSex}
 			<br />
-			<span>类别：</span>${SysReader.rdType} (0:代表老师，1：代表学生)
+			<span>类  别：</span>${SysReader.rdType} (0:代表老师，1：代表学生)
 			<br />
-			<span>角色：</span>${SysReader.rdAdminRoles}
+			<span>角  色：</span>${SysReader.rdAdminRoles}
 			<br />
 			
 		</div>

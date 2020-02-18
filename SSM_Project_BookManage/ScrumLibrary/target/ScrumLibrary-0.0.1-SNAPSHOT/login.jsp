@@ -12,7 +12,7 @@
 <base href="<%=basePath%>">
 
 <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-<title>图书管理系统</title>
+<title>南京大学图书管理系统</title>
 <!-- Bootstrap -->
 <link
 	href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css"
@@ -44,14 +44,14 @@
 
 		<div class="col-md-5 bg1">
 			<div class="form-group">
-				<h3>LOGIN</h3>
+				<h3>南京大学图书馆管理系统</h3>
 			</div>
 			<div class="form-group ">
-				<label class='bg'>UserName</label> 
+				<label class='bg'>用户名</label>
 				<input type="text" class="form-control" id="exampleInputEmail1"  name="username" placeholder="请输入用户名">
 			</div>
 			<div class="form-group">
-				<label for="exampleInputPassword1" class="bg">Password</label> 
+				<label for="exampleInputPassword1" class="bg">密码</label>
 				<input type="password" class="form-control" id="exampleInputPassword1" name="password"
 					placeholder="请输入密码">
 			</div>
@@ -61,9 +61,9 @@
 				<input type="text" placeholder="请输入验证码" class="form-control " name="identity" />
 
 			</div>
-			<button type="submit" class="btn btn-danger col-xs-4">Submit</button>
-			<button type="reset" class="btn btn-group-lg col-xs-4"
-				style="float: right;">Reset</button>
+			<button id="submit" type="submit" class="btn btn-danger col-xs-4" >登录</button>
+			<button id="reset" type="reset" class="btn btn-group-lg col-xs-4"
+				style="float: right;">重置</button>
 		</div>
 	</form>
 
