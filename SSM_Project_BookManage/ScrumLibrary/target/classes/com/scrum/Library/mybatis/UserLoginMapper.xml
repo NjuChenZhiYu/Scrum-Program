@@ -7,7 +7,7 @@
 	<!-- 根据name查找密码 -->
 	<!-- #{name}占位符，如果返回的是简单的类型，name可以为任何值 -->
 	<select id="findpwdByName" parameterType="String" resultType="String">
-		select password from Sys_User where name=#{name}
+		select password from sys_user where name=#{name}
 	</select>
 	
 	<!-- 修改密码 -->
@@ -16,17 +16,17 @@
 	</update>
 	<!-- 修改密码 -->
 	<update id="updatePwd" parameterType="SysUser">
-		update Sys_User set password=#{password} where name=#{username}
+		update sys_user set password=#{password} where name=#{username}
 	</update>
 	
 	<!-- 读者信息创建时并在系统表中创建用户 -->
 	<insert id="insertSysUser" parameterType="Reader">
-		insert into Sys_User(name,password,date,photo)
+		insert into sys_user(name,password,date,photo)
 		values(#{rdID},#{rdPwd},#{rdDateReg},#{rdPhoto})
 	</insert>
 	<!-- 更新 -->
 	<update id="updateSysUser" parameterType="Reader">
-		update Sys_User
+		update sys_user
 		set
 		password=#{rdPwd},
 		photo=#{rdPhoto}
@@ -35,7 +35,7 @@
 	
 	<!-- 删除 -->
 	<delete id="deleteSysUser" parameterType="String">
-		delete from Sys_User where name=#{rdID}
+		delete from sys_user where name=#{rdID}
 	</delete>
 	<!-- 查询 -->
 	<select id="selectSysUser" parameterType="String" resultType="Reader">

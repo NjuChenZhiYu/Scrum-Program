@@ -65,7 +65,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					<input type="text" class="form-control" placeholder="有效期" name="dateValid"/>
 				</div>
 				<div class="form-group right">
-				<input type="submit" class="btn btn-danger " value="submit" />
+				<input type="submit" class="btn btn-danger " value="提交" />
 				</div>
 			</form>
 		</div>
@@ -111,10 +111,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			<nav aria-label="...">
 				<ul class="pager">
 					<li>
-						<a href="<%=basePath%>/readerType/searchReaderType?start=${start-10}&rdType=${rdType}">Previous</a>
+						<a href="<%=basePath%>/readerType/searchReaderType?start=${start-10}&rdType=${rdType}">上一页</a>
 					</li>
 					<li>
-						<a href="<%=basePath%>/readerType/searchReaderType?start=${start+10}&rdType=${rdType}">Next</a>
+						<a href="<%=basePath%>/readerType/searchReaderType?start=${start+10}&rdType=${rdType}">下一页</a>
 					</li>
 				</ul>
 			</nav>
@@ -157,7 +157,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					<input type="text" class="form-control" placeholder="有效期" name="dateValid" value="${readerType.dateValid }"/>
 				</div>
 				<div class="form-group right">
-				<input type="submit" class="btn btn-danger " value="submit" />
+				<input type="submit" class="btn btn-danger " value="提交" />
 				</div>
 			</form>
 		</div>

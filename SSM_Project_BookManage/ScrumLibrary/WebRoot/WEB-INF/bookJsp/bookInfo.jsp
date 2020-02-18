@@ -95,7 +95,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	</div>
 	<div class="row col-sm-11" >
 		<table class="table table-striped table-hover ">
-				<fieldset>BOOK_INFO</fieldset>
+				<fieldset>图书信息</fieldset>
 				<thead class="bg-danger">
 					<td>图书序号</td>
 					<td>图书编号</td>
@@ -145,10 +145,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<nav aria-label="...">
 				<ul class="pager">
 					<li>
-						<a href="<%=basePath%>/book/findBookInfo?start=${start-10}&bkStatus=${parameter.bkStatus}">Previous</a>
+						<a href="<%=basePath%>/book/findBookInfo?start=${start-10}&bkStatus=${parameter.bkStatus}">上一页</a>
 					</li>
 					<li>
-						<a href="<%=basePath%>/book/findBookInfo?start=${start+10}&bkStatus=${parameter.bkStatus}">Next</a>
+						<a href="<%=basePath%>/book/findBookInfo?start=${start+10}&bkStatus=${parameter.bkStatus}">下一页</a>
 					</li>
 				</ul>
 			</nav>

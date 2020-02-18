@@ -82,7 +82,7 @@ fieldset
 	</div>
 	<div class="row col-sm-11" >
 		<table class="table table-striped table-hover ">
-				<fieldset>BORROW_INFO</fieldset>
+				<fieldset>借阅信息</fieldset>
 				<thead class="bg-danger">
 					<td>序号</td>
 					<td>读者序号</td>
@@ -127,10 +127,10 @@ fieldset
 		<nav aria-label="...">
 				<ul class="pager">
 					<li>
-						<a href="<%=basePath%>/borrow/selectBorrowInfo?isHasReturn=${parameter.isHasReturn}&start=${parameter.start-10}">Previous</a>
+						<a href="<%=basePath%>/borrow/selectBorrowInfo?isHasReturn=${parameter.isHasReturn}&start=${parameter.start-10}">上一页</a>
 					</li>
 					<li>
-						<a href="<%=basePath%>/borrow/selectBorrowInfo?isHasReturn=${parameter.isHasReturn}&start=${parameter.start+10}">Next</a>
+						<a href="<%=basePath%>/borrow/selectBorrowInfo?isHasReturn=${parameter.isHasReturn}&start=${parameter.start+10}">下一页</a>
 					</li>
 				</ul>
 			</nav>

@@ -62,10 +62,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			<nav aria-label="...">
 				<ul class="pager">
 					<li>
-						<a href="<%=basePath %>/Userlogin/selectPermission?start=${parameter.start-10}">Previous</a>
+						<a href="<%=basePath %>/Userlogin/selectPermission?start=${parameter.start-10}">上一页</a>
 					</li>
 					<li>
-						<a href="<%=basePath %>/Userlogin/selectPermission?start=${parameter.start+10}">Next</a>
+						<a href="<%=basePath %>/Userlogin/selectPermission?start=${parameter.start+10}">下一页</a>
 					</li>
 				</ul>
 			</nav>

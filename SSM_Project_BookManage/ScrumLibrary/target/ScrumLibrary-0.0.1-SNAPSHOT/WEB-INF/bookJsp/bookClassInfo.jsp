@@ -61,7 +61,7 @@ h1 {
 	</div>
 	<hr />
 	<div class="row">
-		<span> 提交信息展览</span>
+		<span> 提交信息展示</span>
 	</div>
 	<div class="row col-md-6">
 		<table class="table table-striped table-hover ">
@@ -85,8 +85,8 @@ h1 {
 		<div class="row">
 			<nav aria-label="...">
 				<ul class="pager">
-					<li><a href="<%=basePath%>/bookClass/selectBookClass?start=${start-10}">Previous</a></li>
-					<li><a href="<%=basePath%>/bookClass/selectBookClass?start=${start+10}">Next</a></li>
+					<li><a href="<%=basePath%>/bookClass/selectBookClass?start=${start-10}">上一页</a></li>
+					<li><a href="<%=basePath%>/bookClass/selectBookClass?start=${start+10}">下一页</a></li>
 				</ul>
 			</nav>
 		</div>
